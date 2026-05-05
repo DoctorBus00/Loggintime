@@ -1,0 +1,35 @@
+{
+  "colorPalette": "emerald-mint",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260504-213043-vpgw",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-05-05T01:30:43.000Z",
+      "dateEnd": "2026-05-05T02:05:45.000Z",
+      "dateLabel": "5/4/2026, 9:30:43 PM - 5/4/2026, 10:05:45 PM",
+      "url": "https://DoctorBus00.github.io/Loggintime/?report=20260504-213043-vpgw",
+      "summary": {
+        "borderlandsPct": 0.043478260869565216,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 22,
+            "color": "#64748b"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 1,
+            "color": "#22c55e"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 17
+      }
+    }
+  ]
+}
