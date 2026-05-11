@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260510-223105-ygom",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-05-11T02:31:05.000Z",
+      "dateEnd": "2026-05-11T03:22:07.000Z",
+      "dateLabel": "5/10/2026, 10:31:05 PM - 5/10/2026, 11:22:07 PM",
+      "url": "https://DoctorBus00.github.io/Loggintime/?report=20260510-223105-ygom",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 28,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 32
+      }
+    },
+    {
       "id": "20260504-213043-vpgw",
       "title": "Get On Me",
       "commanders": [
