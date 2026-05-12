@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260511-211300-0bal",
+      "title": "Link Does Damage",
+      "commanders": [
+        "Link Does Damage"
+      ],
+      "dateStart": "2026-05-12T01:13:00.000Z",
+      "dateEnd": "2026-05-12T01:59:19.000Z",
+      "dateLabel": "5/11/2026, 9:13:00 PM - 5/11/2026, 9:59:19 PM",
+      "url": "https://DoctorBus00.github.io/Loggintime/?report=20260511-211300-0bal",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 14,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 19,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260510-223105-ygom",
       "title": "Get On Me",
       "commanders": [
