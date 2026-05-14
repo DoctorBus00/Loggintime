@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260513-001339-4qlh",
+      "title": "Get On Me",
+      "commanders": [
+        "Get On Me"
+      ],
+      "dateStart": "2026-05-13T04:13:39.000Z",
+      "dateEnd": "2026-05-14T01:39:43.000Z",
+      "dateLabel": "5/13/2026, 12:13:39 AM - 5/13/2026, 9:39:43 PM",
+      "url": "https://DoctorBus00.github.io/Loggintime/?report=20260513-001339-4qlh",
+      "summary": {
+        "borderlandsPct": 0.375,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 5,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 12,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260512-221504-qahf",
       "title": "Gear Check For Bads",
       "commanders": [
