@@ -4,6 +4,29 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260517-224328-slxw",
+      "title": "Ebt Baby",
+      "commanders": [
+        "Ebt Baby"
+      ],
+      "dateStart": "2026-05-18T02:43:28.000Z",
+      "dateEnd": "2026-05-18T03:03:27.000Z",
+      "dateLabel": "5/17/2026, 10:43:28 PM - 5/17/2026, 11:03:27 PM",
+      "url": "https://DoctorBus00.github.io/Loggintime/?report=20260517-224328-slxw",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 37,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 17
+      }
+    },
+    {
       "id": "20260513-215501-8nco",
       "title": "Get On Me",
       "commanders": [
