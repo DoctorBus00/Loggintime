@@ -4,6 +4,31 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260524-215535-r4e2",
+      "title": "Ebt Baby, Get On Me, Illusive Heart",
+      "commanders": [
+        "Ebt Baby",
+        "Get On Me",
+        "Illusive Heart"
+      ],
+      "dateStart": "2026-05-25T01:55:35.000Z",
+      "dateEnd": "2026-05-25T03:05:04.000Z",
+      "dateLabel": "5/24/2026, 9:55:35 PM - 5/24/2026, 11:05:04 PM",
+      "url": "https://DoctorBus00.github.io/Loggintime/?report=20260524-215535-r4e2",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Edge of the Mists",
+            "value": 32,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 17,
+        "avgEnemySize": 14
+      }
+    },
+    {
       "id": "20260523-221309-izl0",
       "title": "Get On Me",
       "commanders": [
